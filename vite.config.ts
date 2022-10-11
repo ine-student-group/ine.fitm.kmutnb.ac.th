@@ -5,7 +5,7 @@ import WindiCSS from 'vite-plugin-windicss';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: "/ine-fitm-kmutnb-ac-th",
+    base: "/ine.fitm.kmutnb.ac.th/",
     plugins: [
         svelte(),
         WindiCSS()
