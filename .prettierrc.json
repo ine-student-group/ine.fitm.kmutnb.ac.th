@@ -1,0 +1,9 @@
+{
+    "singleQuote": true,
+    "printWidth": 90,
+    "semi": true,
+    "svelteStrictMode": false,
+    "svelteBracketNewLine": true,
+    "svelteIndentScriptAndStyle": true,
+    "trailingComma": "es5"
+}
